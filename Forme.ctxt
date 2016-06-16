@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=idForme\ positionForme\ orientationForme\ libForme
+comment0.target=Forme(int,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getIdForme()
+comment2.params=idForme
+comment2.target=void\ getPositionForme(int)
+comment3.params=idForme
+comment3.target=void\ getOrientationForme(int)
+comment4.params=idForme
+comment4.target=void\ getLibForme(int)
+comment5.params=pos\ idForme
+comment5.target=void\ setPositionForme(int,\ int)
+comment6.params=orientation\ idForme
+comment6.target=void\ setOrientationForme(int,\ int)
+numComments=7

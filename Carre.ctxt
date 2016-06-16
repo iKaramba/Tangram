@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=idForme\ positionForme\ orientationForme\ libForme\ longueurCotes
+comment0.target=Carre(int,\ int,\ int,\ java.lang.String,\ int)
+comment1.params=idForme
+comment1.target=void\ getLongueurCotes(int)
+comment2.params=longueur\ idForme
+comment2.target=void\ setLongueurCotes(int,\ int)
+comment3.params=idForme
+comment3.target=void\ getLibForme(int)
+numComments=4

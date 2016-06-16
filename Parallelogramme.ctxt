@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=idForme\ positionForme\ orientationForme\ libForme\ longueur\ largeur
+comment0.target=Parallelogramme(int,\ int,\ int,\ java.lang.String,\ int,\ int)
+comment0.text=@pdOid\ b3b2462f-fe57-4f1c-ae15-2026e06bf1e8
+comment1.params=idForme
+comment1.target=void\ getLongueur(int)
+comment2.params=idForme
+comment2.target=void\ getLargeur(int)
+comment3.params=longueur\ idForme
+comment3.target=void\ setLongueur(int,\ int)
+comment4.params=larg\ idForme
+comment4.target=void\ setLargeur(int,\ int)
+comment5.params=idForme
+comment5.target=void\ getLibForme(int)
+numComments=6

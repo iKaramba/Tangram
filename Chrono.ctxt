@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Chrono()
+comment1.params=
+comment1.target=void\ start()
+comment2.params=
+comment2.target=boolean\ stop()
+comment3.params=
+comment3.target=int\ getHeure()
+comment4.params=
+comment4.target=int\ getMinute()
+comment5.params=
+comment5.target=int\ getSeconde()
+comment6.params=
+comment6.target=void\ affiche()
+numComments=7
